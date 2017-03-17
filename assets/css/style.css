@@ -1,0 +1,45 @@
+body {
+	background-image: url(../images/solarSystem.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+header {
+	color: white;
+    position: relative;
+    left: 65%;
+    padding: 2%;
+}
+
+
+h1 {
+	font-size: 3em;
+}
+
+
+h3 {
+	position: relative;
+	left: 75px;
+    top: 10px;
+}
+
+section {
+	position: relative;
+	left: 75%;
+	color: white;
+}
+
+section > h2 {
+	font-size: 1.5em
+}
+
+p {
+	color: white;
+}
+
+#currentWord {
+	position: relative;
+	left: 35px;
+    top: 10px;
+}
